@@ -1,0 +1,9 @@
+[submodule "thirdparty/unimatch"]
+	path = thirdparty/unimatch
+	url = https://github.com/autonomousvision/unimatch
+[submodule "thirdparty/co-tracker"]
+	path = thirdparty/co-tracker
+	url = https://github.com/facebookresearch/co-tracker.git
+[submodule "thirdparty/Track-Anything"]
+	path = thirdparty/Track-Anything
+	url = https://github.com/gaomingqi/Track-Anything.git
